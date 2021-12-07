@@ -4,7 +4,7 @@
 <testsuites>
 
     <testsuite name = "Software_Testing_2021-22">
-        <directory>tests\signupTest.php</directory>
+        <directory>tests\</directory>
     </testsuite>
 
 </testsuites>
